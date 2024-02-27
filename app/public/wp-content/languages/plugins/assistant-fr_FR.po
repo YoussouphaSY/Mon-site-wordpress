@@ -1,0 +1,72 @@
+# Translation of Plugins - Assistant &#8211; Every Day Productivity Apps - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Assistant &#8211; Every Day Productivity Apps - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-21 14:23:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Assistant &#8211; Every Day Productivity Apps - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://www.wpbeaverbuilder.com/?utm_medium=assistant&utm_source=plugins-admin-page&utm_campaign=plugins-admin-author"
+msgstr "https://www.wpbeaverbuilder.com/?utm_medium=assistant&utm_source=plugins-admin-page&utm_campaign=plugins-admin-author"
+
+#. Author of the plugin
+msgid "The Beaver Builder Team"
+msgstr "L’équipe Beaver Builder"
+
+#. Description of the plugin
+msgid "A tool for navigating a site and accomplishing quick tasks without needing the WordPress admin."
+msgstr "Un outil pour naviguer sur un site et accomplir des tâches rapides sans avoir besoin de se rendre dans l’administration de WordPress."
+
+#. Plugin Name of the plugin
+#: backend/src/Hooks/Actions/OnWPBeforeAdminBarRender.php:41
+#: backend/src/Hooks/Filters/OnFLBuilderUIBarButtons.php:43
+#: backend/templates/user-profile.php:1 build/chunk-app-home.js:1
+#: build/render.js:1
+msgid "Assistant"
+msgstr "Assistant"
+
+#: backend/src/System/Util/PhpVersionCheck.php:66
+msgid "Assistant requires PHP 5.6 or above. Please <a href=\"%s\">update your PHP version</a> before continuing."
+msgstr "Assistant nécessite PHP 5.6 or supérieur. Veuillez <a href=\"%s\">mettre à jour votre version de PHP</a> avant de continuer."
+
+#: backend/src/Data/Site.php:114
+msgid "Latest Posts"
+msgstr "Derniers articles"
+
+#: backend/src/Data/Site.php:112
+msgid "Currently Viewing Post Archive"
+msgstr "Actuellement consultation de l’archive des articles"
+
+#: backend/src/Data/Site.php:107
+msgid "Currently Viewing Author"
+msgstr "Actuellement consultation de l’auteur"
+
+#: backend/src/Data/Site.php:61 backend/src/Data/Site.php:77
+msgid "Currently Viewing %s"
+msgstr "Actuellement consultation de %s"
+
+#: backend/src/Data/Site.php:52
+msgid "Currently Viewing Post Type Archive"
+msgstr "Actuellement consultation de l’archive du type de publication"
+
+#: backend/src/Data/Site.php:39
+msgid "Currently Viewing Search Results For"
+msgstr "Actuellement consultation des résultats de recherche pour"
+
+#: backend/src/Data/Site.php:20 build/system.js:2
+msgid "Untitled"
+msgstr "Sans titre"
+
+#: backend/src/Data/Transformers/PostTransformer.php:108
+msgid "(no title)"
+msgstr "(aucun titre)"
+
+#: backend/src/Data/Site.php:18
+msgid "Currently Viewing"
+msgstr "Visionnage en cours"

@@ -1,0 +1,142 @@
+/*
+Theme Name: Soccer Club Academy
+Theme URI: https://www.buywpthemes.net/products/free-soccer-club-academy-wordpress-theme
+Author: Peccular
+Author URI: https://www.buywpthemes.net/
+Description: Soccer Club Academy wordpress theme created specially for a sport and games like Football and Soccer, where Clubs, Association, Training School,training Academy, Coaching places plays tournaments and matches. If anyone want to start training for football & soccer, they can introduce thier club information online by building a website very easily by using our No code skill requrired theme for free. In Soccer Club Academy, you will get the list of Players, list of Coaches, Events, winning matches, club's updated news, Awards and Team profile etc to show. Easy Customization option like Color,Font style, Images, Pages, Gallery, Events can set by your own. It is a responsive, browsers supported, bootstrap coded theme which look clean and attractive for your clubs and Academy.
+Version: 0.2.4
+Tested up to: 5.8
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: soccer-club-academy
+Slug: soccer-club-academy
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, photography
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+
+.waves {
+    position: absolute;
+    width: 100%;
+    height: 31vh;
+    margin-bottom: -7px;
+    min-height: 100px;
+    max-height: 150px;
+    bottom: 0;
+}
+
+/* Animation */
+
+.parallax > use {
+  animation: move-forever 25s cubic-bezier(.55,.5,.45,.5)     infinite;
+}
+.parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 7s;
+}
+.parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 10s;
+}
+.parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 13s;
+}
+.parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 20s;
+}
+@keyframes move-forever {
+  0% {
+   transform: translate3d(-90px,0,0);
+  }
+  100% { 
+    transform: translate3d(85px,0,0);
+  }
+}
+/*Shrinking for mobile*/
+@media (max-width: 768px) {
+  .waves {
+    height:40px;
+    min-height:40px;
+  }
+}
+.recentcomments a {
+    display: inline-block !important;
+    padding-left: 18px !important;
+    margin: 0 !important;
+}
+.slider-img-left {
+    position: absolute;
+    left: 0;
+    right: 38.5%;
+    top: 0;
+    bottom: 0;
+    opacity: 1;
+    clip-path: polygon(0 0, 65% 0, 100% 100%, 0% 100%);
+}
+
+.slider-img-overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: #161415;
+    opacity: 0.7;
+    clip-path: polygon(0 0, 65% 0, 100% 100%, 0% 100%);
+}
+.slider-img-overlay-outer {
+    position: absolute;
+    left: 0;
+    right: 37%;
+    top: 0;
+    bottom: 0;
+    background: #c50301;
+    opacity: 1;
+    clip-path: polygon(0 0, 66% 0, 100% 100%, 0% 100%);
+}
+@media (max-width: 991px) {
+.slider-img-overlay-outer {
+    right: 25%;
+}
+.slider-img-left {
+    right: 27.5%;
+}
+.hero-slider .slider-center-img {
+    width: 80px;
+    height: 80px;
+}
+.hero-slider .slider-center-imgin {
+    width: 70px;
+    height: 70px;
+  }
+  .hero-slider .slider-center-img img {
+    width: 30px;
+    height: 30px;
+}
+.hero-slider .slider-center-imgin {
+    width: 50px;
+    height: 50px;
+}
+
+}
+
+@media (max-width: 560px) {
+.hero-slider .slider-center-img img {
+    width: 45px;
+    height: 45px;
+}
+.hero-slider .slider-center-imgin {
+    width: 65px;
+    height: 65px;
+}
+.hero-slider .slider-center-img {
+    border: 8px solid #c50301;
+}
+
+}

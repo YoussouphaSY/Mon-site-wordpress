@@ -1,0 +1,1280 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "City Council",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-8f5bb58d7851bb9b898c1d3b5f90a674.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 4 Pro",
+            "screenshot": "screenshots\/home-4-pro.jpg",
+            "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 5 Pro",
+            "screenshot": "screenshots\/home-5-pro.jpg",
+            "source": "templates\/home-5-pro-022d6adf13774b65c56df9dc2ae70bb1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about-32c3a50262e40d3859b36d41308cfe64.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "City History",
+            "screenshot": "screenshots\/city-history.jpg",
+            "source": "templates\/city-history-2a1954b05c59bb1a84513c5c5159719a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Agendas",
+            "screenshot": "screenshots\/agendas.jpg",
+            "source": "templates\/agendas-092961f935c911b7b0dff772ac77680d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Goals 1",
+            "screenshot": "screenshots\/goals-1.jpg",
+            "source": "templates\/goals-1-383188f19b2915b0820667f33845039f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Goals 2",
+            "screenshot": "screenshots\/goals-2-pro.jpg",
+            "source": "templates\/goals-2-28e6b2ed4665acfe39b750d51dc3ac53.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team-aee2b7f56c13f3b2fd593f63b84f6a03.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq-7048bb9015e188a7ab14ed7949f452e0.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 1",
+            "screenshot": "screenshots\/contact-1.jpg",
+            "source": "templates\/contact-1-7e4bcc7936191acf6ec6bd3f62a91670.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2-pro.jpg",
+            "source": "templates\/contact-2-07b4ff75a46a15df45003d0e2d0e86bd.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-b21dfc683359410ef327acaa22707e91.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [
+        {
+            "name": "Custom CSS",
+            "description": "These styles are added to the WordPress Customizer.",
+            "file": "css\/customizer.css"
+        }
+    ],
+    "images": [
+        {
+            "filename": "image-from-rawpixel-id-433891-jpeg.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/image-from-rawpixel-id-433891-jpeg-500x407.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/home-5-pro-022d6adf13774b65c56df9dc2ae70bb1.json",
+                    "name": "Home 5 Pro"
+                },
+                {
+                    "source": "templates\/about-32c3a50262e40d3859b36d41308cfe64.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/city-history-2a1954b05c59bb1a84513c5c5159719a.json",
+                    "name": "City History"
+                },
+                {
+                    "source": "templates\/agendas-092961f935c911b7b0dff772ac77680d.json",
+                    "name": "Agendas"
+                },
+                {
+                    "source": "templates\/goals-1-383188f19b2915b0820667f33845039f.json",
+                    "name": "Goals 1"
+                },
+                {
+                    "source": "templates\/goals-2-28e6b2ed4665acfe39b750d51dc3ac53.json",
+                    "name": "Goals 2"
+                },
+                {
+                    "source": "templates\/contact-2-07b4ff75a46a15df45003d0e2d0e86bd.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 2072668,
+            "dimensions": [
+                3500,
+                2848
+            ]
+        },
+        {
+            "filename": "presentation.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/presentation.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-8f5bb58d7851bb9b898c1d3b5f90a674.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-pro-022d6adf13774b65c56df9dc2ae70bb1.json",
+                    "name": "Home 5 Pro"
+                },
+                {
+                    "source": "templates\/goals-1-383188f19b2915b0820667f33845039f.json",
+                    "name": "Goals 1"
+                },
+                {
+                    "source": "templates\/goals-2-28e6b2ed4665acfe39b750d51dc3ac53.json",
+                    "name": "Goals 2"
+                },
+                {
+                    "source": "templates\/faq-7048bb9015e188a7ab14ed7949f452e0.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-1-7e4bcc7936191acf6ec6bd3f62a91670.json",
+                    "name": "Contact 1"
+                }
+            ],
+            "filesize": 2620,
+            "dimensions": [
+                64,
+                64
+            ]
+        },
+        {
+            "filename": "government.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/government.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-8f5bb58d7851bb9b898c1d3b5f90a674.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-pro-022d6adf13774b65c56df9dc2ae70bb1.json",
+                    "name": "Home 5 Pro"
+                },
+                {
+                    "source": "templates\/city-history-2a1954b05c59bb1a84513c5c5159719a.json",
+                    "name": "City History"
+                },
+                {
+                    "source": "templates\/goals-1-383188f19b2915b0820667f33845039f.json",
+                    "name": "Goals 1"
+                },
+                {
+                    "source": "templates\/goals-2-28e6b2ed4665acfe39b750d51dc3ac53.json",
+                    "name": "Goals 2"
+                },
+                {
+                    "source": "templates\/faq-7048bb9015e188a7ab14ed7949f452e0.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-1-7e4bcc7936191acf6ec6bd3f62a91670.json",
+                    "name": "Contact 1"
+                }
+            ],
+            "filesize": 1219,
+            "dimensions": [
+                64,
+                64
+            ]
+        },
+        {
+            "filename": "team.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/team.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-8f5bb58d7851bb9b898c1d3b5f90a674.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-pro-022d6adf13774b65c56df9dc2ae70bb1.json",
+                    "name": "Home 5 Pro"
+                },
+                {
+                    "source": "templates\/goals-1-383188f19b2915b0820667f33845039f.json",
+                    "name": "Goals 1"
+                },
+                {
+                    "source": "templates\/goals-2-28e6b2ed4665acfe39b750d51dc3ac53.json",
+                    "name": "Goals 2"
+                },
+                {
+                    "source": "templates\/popup-b21dfc683359410ef327acaa22707e91.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 3218,
+            "dimensions": [
+                64,
+                64
+            ]
+        },
+        {
+            "filename": "diagram.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/diagram.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-8f5bb58d7851bb9b898c1d3b5f90a674.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/home-5-pro-022d6adf13774b65c56df9dc2ae70bb1.json",
+                    "name": "Home 5 Pro"
+                },
+                {
+                    "source": "templates\/about-32c3a50262e40d3859b36d41308cfe64.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/city-history-2a1954b05c59bb1a84513c5c5159719a.json",
+                    "name": "City History"
+                },
+                {
+                    "source": "templates\/agendas-092961f935c911b7b0dff772ac77680d.json",
+                    "name": "Agendas"
+                },
+                {
+                    "source": "templates\/goals-1-383188f19b2915b0820667f33845039f.json",
+                    "name": "Goals 1"
+                },
+                {
+                    "source": "templates\/goals-2-28e6b2ed4665acfe39b750d51dc3ac53.json",
+                    "name": "Goals 2"
+                },
+                {
+                    "source": "templates\/team-aee2b7f56c13f3b2fd593f63b84f6a03.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq-7048bb9015e188a7ab14ed7949f452e0.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-1-7e4bcc7936191acf6ec6bd3f62a91670.json",
+                    "name": "Contact 1"
+                },
+                {
+                    "source": "templates\/contact-2-07b4ff75a46a15df45003d0e2d0e86bd.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 1783,
+            "dimensions": [
+                64,
+                64
+            ]
+        },
+        {
+            "filename": "image-from-rawpixel-id-421897-jpeg.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/image-from-rawpixel-id-421897-jpeg-500x390.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-8f5bb58d7851bb9b898c1d3b5f90a674.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/home-5-pro-022d6adf13774b65c56df9dc2ae70bb1.json",
+                    "name": "Home 5 Pro"
+                },
+                {
+                    "source": "templates\/about-32c3a50262e40d3859b36d41308cfe64.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/city-history-2a1954b05c59bb1a84513c5c5159719a.json",
+                    "name": "City History"
+                },
+                {
+                    "source": "templates\/agendas-092961f935c911b7b0dff772ac77680d.json",
+                    "name": "Agendas"
+                },
+                {
+                    "source": "templates\/faq-7048bb9015e188a7ab14ed7949f452e0.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-2-07b4ff75a46a15df45003d0e2d0e86bd.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 401299,
+            "dimensions": [
+                1200,
+                936
+            ]
+        },
+        {
+            "filename": "30.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/30.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 26611,
+            "dimensions": [
+                370,
+                250
+            ]
+        },
+        {
+            "filename": "27.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/27.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/goals-1-383188f19b2915b0820667f33845039f.json",
+                    "name": "Goals 1"
+                },
+                {
+                    "source": "templates\/goals-2-28e6b2ed4665acfe39b750d51dc3ac53.json",
+                    "name": "Goals 2"
+                },
+                {
+                    "source": "templates\/team-aee2b7f56c13f3b2fd593f63b84f6a03.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 41346,
+            "dimensions": [
+                370,
+                250
+            ]
+        },
+        {
+            "filename": "11.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 36179,
+            "dimensions": [
+                370,
+                250
+            ]
+        },
+        {
+            "filename": "image-from-rawpixel-id-434057-jpeg.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/image-from-rawpixel-id-434057-jpeg-500x319.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-8f5bb58d7851bb9b898c1d3b5f90a674.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/home-5-pro-022d6adf13774b65c56df9dc2ae70bb1.json",
+                    "name": "Home 5 Pro"
+                },
+                {
+                    "source": "templates\/about-32c3a50262e40d3859b36d41308cfe64.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/city-history-2a1954b05c59bb1a84513c5c5159719a.json",
+                    "name": "City History"
+                },
+                {
+                    "source": "templates\/agendas-092961f935c911b7b0dff772ac77680d.json",
+                    "name": "Agendas"
+                },
+                {
+                    "source": "templates\/goals-1-383188f19b2915b0820667f33845039f.json",
+                    "name": "Goals 1"
+                },
+                {
+                    "source": "templates\/goals-2-28e6b2ed4665acfe39b750d51dc3ac53.json",
+                    "name": "Goals 2"
+                },
+                {
+                    "source": "templates\/team-aee2b7f56c13f3b2fd593f63b84f6a03.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/contact-1-7e4bcc7936191acf6ec6bd3f62a91670.json",
+                    "name": "Contact 1"
+                }
+            ],
+            "filesize": 816742,
+            "dimensions": [
+                2500,
+                1593
+            ]
+        },
+        {
+            "filename": "23.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/23-500x351.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/home-5-pro-022d6adf13774b65c56df9dc2ae70bb1.json",
+                    "name": "Home 5 Pro"
+                },
+                {
+                    "source": "templates\/about-32c3a50262e40d3859b36d41308cfe64.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/faq-7048bb9015e188a7ab14ed7949f452e0.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 51440,
+            "dimensions": [
+                570,
+                400
+            ]
+        },
+        {
+            "filename": "team-9.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/team-9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/about-32c3a50262e40d3859b36d41308cfe64.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team-aee2b7f56c13f3b2fd593f63b84f6a03.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 18499,
+            "dimensions": [
+                370,
+                370
+            ]
+        },
+        {
+            "filename": "team-11.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/team-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/home-5-pro-022d6adf13774b65c56df9dc2ae70bb1.json",
+                    "name": "Home 5 Pro"
+                },
+                {
+                    "source": "templates\/about-32c3a50262e40d3859b36d41308cfe64.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team-aee2b7f56c13f3b2fd593f63b84f6a03.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 21578,
+            "dimensions": [
+                370,
+                370
+            ]
+        },
+        {
+            "filename": "team-6-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/team-6-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/about-32c3a50262e40d3859b36d41308cfe64.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team-aee2b7f56c13f3b2fd593f63b84f6a03.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 22522,
+            "dimensions": [
+                370,
+                370
+            ]
+        },
+        {
+            "filename": "081-university-1.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/081-university-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/city-history-2a1954b05c59bb1a84513c5c5159719a.json",
+                    "name": "City History"
+                }
+            ],
+            "filesize": 2817,
+            "dimensions": [
+                64,
+                64
+            ]
+        },
+        {
+            "filename": "22.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/22-500x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-b8244c76b862b31ff221d6e063ff6475.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-32c3a50262e40d3859b36d41308cfe64.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/contact-1-7e4bcc7936191acf6ec6bd3f62a91670.json",
+                    "name": "Contact 1"
+                }
+            ],
+            "filesize": 606560,
+            "dimensions": [
+                1920,
+                1200
+            ]
+        },
+        {
+            "filename": "presentation-white.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/presentation-white.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                }
+            ],
+            "filesize": 4645,
+            "dimensions": [
+                64,
+                64
+            ]
+        },
+        {
+            "filename": "government-white.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/government-white.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                }
+            ],
+            "filesize": 3570,
+            "dimensions": [
+                64,
+                64
+            ]
+        },
+        {
+            "filename": "team-white.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/team-white.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                }
+            ],
+            "filesize": 5416,
+            "dimensions": [
+                64,
+                64
+            ]
+        },
+        {
+            "filename": "diagram-white.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/diagram-white.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                }
+            ],
+            "filesize": 3827,
+            "dimensions": [
+                64,
+                64
+            ]
+        },
+        {
+            "filename": "image-from-rawpixel-id-421699-jpeg.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/image-from-rawpixel-id-421699-jpeg-500x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/city-history-2a1954b05c59bb1a84513c5c5159719a.json",
+                    "name": "City History"
+                },
+                {
+                    "source": "templates\/goals-2-28e6b2ed4665acfe39b750d51dc3ac53.json",
+                    "name": "Goals 2"
+                }
+            ],
+            "filesize": 1596021,
+            "dimensions": [
+                2500,
+                1877
+            ]
+        },
+        {
+            "filename": "12.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 38356,
+            "dimensions": [
+                370,
+                250
+            ]
+        },
+        {
+            "filename": "26.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/26.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 47310,
+            "dimensions": [
+                370,
+                250
+            ]
+        },
+        {
+            "filename": "24.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/24.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 41465,
+            "dimensions": [
+                370,
+                250
+            ]
+        },
+        {
+            "filename": "project-2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/project-2-500x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-65d909a6c9bd05f3742e0ef162656a10.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 121369,
+            "dimensions": [
+                500,
+                375
+            ]
+        },
+        {
+            "filename": "image-from-rawpixel-id-434013-jpeg.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/image-from-rawpixel-id-434013-jpeg-500x221.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-8f5bb58d7851bb9b898c1d3b5f90a674.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/goals-2-28e6b2ed4665acfe39b750d51dc3ac53.json",
+                    "name": "Goals 2"
+                }
+            ],
+            "filesize": 775228,
+            "dimensions": [
+                2500,
+                1104
+            ]
+        },
+        {
+            "filename": "activists-awareness-belief-1799245.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/activists-awareness-belief-1799245-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-8f5bb58d7851bb9b898c1d3b5f90a674.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/city-history-2a1954b05c59bb1a84513c5c5159719a.json",
+                    "name": "City History"
+                }
+            ],
+            "filesize": 257744,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/1-500x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                }
+            ],
+            "filesize": 457549,
+            "dimensions": [
+                1920,
+                1200
+            ]
+        },
+        {
+            "filename": "breather-163392-copy-488718_PR_133_SI_11_09_14_844-m-Mask.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/breather-163392-copy-488718_PR_133_SI_11_09_14_844-m-Mask-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/team-aee2b7f56c13f3b2fd593f63b84f6a03.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 440705,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "15.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/15-500x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/team-aee2b7f56c13f3b2fd593f63b84f6a03.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 373141,
+            "dimensions": [
+                1920,
+                1200
+            ]
+        },
+        {
+            "filename": "play.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/play.png",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/about-32c3a50262e40d3859b36d41308cfe64.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/goals-2-28e6b2ed4665acfe39b750d51dc3ac53.json",
+                    "name": "Goals 2"
+                }
+            ],
+            "filesize": 9372,
+            "dimensions": [
+                190,
+                190
+            ]
+        },
+        {
+            "filename": "35.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/35-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-pro-17d186c32567cd144542512a18915b5e.json",
+                    "name": "Home 4 Pro"
+                },
+                {
+                    "source": "templates\/goals-1-383188f19b2915b0820667f33845039f.json",
+                    "name": "Goals 1"
+                },
+                {
+                    "source": "templates\/goals-2-28e6b2ed4665acfe39b750d51dc3ac53.json",
+                    "name": "Goals 2"
+                },
+                {
+                    "source": "templates\/team-aee2b7f56c13f3b2fd593f63b84f6a03.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 53549,
+            "dimensions": [
+                525,
+                350
+            ]
+        },
+        {
+            "filename": "34.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/34-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5-pro-022d6adf13774b65c56df9dc2ae70bb1.json",
+                    "name": "Home 5 Pro"
+                }
+            ],
+            "filesize": 46048,
+            "dimensions": [
+                525,
+                350
+            ]
+        },
+        {
+            "filename": "team-6.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/team-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5-pro-022d6adf13774b65c56df9dc2ae70bb1.json",
+                    "name": "Home 5 Pro"
+                }
+            ],
+            "filesize": 22522,
+            "dimensions": [
+                370,
+                370
+            ]
+        },
+        {
+            "filename": "breather-163392-482453_PR_123___SI___01_05_14_073-m-Mask.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/breather-163392-482453_PR_123___SI___01_05_14_073-m-Mask-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5-pro-022d6adf13774b65c56df9dc2ae70bb1.json",
+                    "name": "Home 5 Pro"
+                },
+                {
+                    "source": "templates\/team-aee2b7f56c13f3b2fd593f63b84f6a03.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 413780,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "shape.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/shape-500x105.png",
+            "templates": [
+                {
+                    "source": "templates\/home-5-pro-022d6adf13774b65c56df9dc2ae70bb1.json",
+                    "name": "Home 5 Pro"
+                },
+                {
+                    "source": "templates\/goals-1-383188f19b2915b0820667f33845039f.json",
+                    "name": "Goals 1"
+                }
+            ],
+            "filesize": 6347,
+            "dimensions": [
+                759,
+                160
+            ]
+        },
+        {
+            "filename": "image-from-rawpixel-id-421815-jpeg.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/image-from-rawpixel-id-421815-jpeg-500x354.jpg",
+            "templates": [
+                {
+                    "source": "templates\/city-history-2a1954b05c59bb1a84513c5c5159719a.json",
+                    "name": "City History"
+                }
+            ],
+            "filesize": 1778294,
+            "dimensions": [
+                2500,
+                1771
+            ]
+        },
+        {
+            "filename": "084-metering.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/084-metering.png",
+            "templates": [
+                {
+                    "source": "templates\/city-history-2a1954b05c59bb1a84513c5c5159719a.json",
+                    "name": "City History"
+                }
+            ],
+            "filesize": 2867,
+            "dimensions": [
+                64,
+                64
+            ]
+        },
+        {
+            "filename": "085-health.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/085-health.png",
+            "templates": [
+                {
+                    "source": "templates\/city-history-2a1954b05c59bb1a84513c5c5159719a.json",
+                    "name": "City History"
+                },
+                {
+                    "source": "templates\/faq-7048bb9015e188a7ab14ed7949f452e0.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-1-7e4bcc7936191acf6ec6bd3f62a91670.json",
+                    "name": "Contact 1"
+                }
+            ],
+            "filesize": 3308,
+            "dimensions": [
+                64,
+                64
+            ]
+        },
+        {
+            "filename": "breather-163392-copy-2-476815_PR_114___SI_18_02_14_042-m-Mask.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/breather-163392-copy-2-476815_PR_114___SI_18_02_14_042-m-Mask-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/team-aee2b7f56c13f3b2fd593f63b84f6a03.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 422301,
+            "dimensions": [
+                500,
+                500
+            ]
+        },
+        {
+            "filename": "team-10.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/team-10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team-aee2b7f56c13f3b2fd593f63b84f6a03.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 19982,
+            "dimensions": [
+                370,
+                370
+            ]
+        },
+        {
+            "filename": "pexels-photo-1208694.jpeg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/11\/pexels-photo-1208694-500x374.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/faq-7048bb9015e188a7ab14ed7949f452e0.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 510479,
+            "dimensions": [
+                1920,
+                1435
+            ]
+        },
+        {
+            "filename": "083-engineering.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-111\/wp-content\/uploads\/sites\/114\/2018\/10\/083-engineering.png",
+            "templates": [
+                {
+                    "source": "templates\/faq-7048bb9015e188a7ab14ed7949f452e0.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-1-7e4bcc7936191acf6ec6bd3f62a91670.json",
+                    "name": "Contact 1"
+                }
+            ],
+            "filesize": 3860,
+            "dimensions": [
+                64,
+                64
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+/* Kit 80 Custom Styles - classes are added to the Advanced tab of the element they affect */
+.envato-kit-80-space-triangle.elementor-widget-spacer .elementor-widget-container{
+		border-left-color:transparent !important;
+		border-bottom-color:transparent !important;
+		width:10px;
+}
+.envato-kit-80-space-triangle .elementor-widget-container {
+	position: absolute !important;
+	top: 0 !important;
+	right: 0;
+}
+.envato-kit-80-space-triangle-bottom.elementor-widget-spacer .elementor-widget-container{
+		border-top-color:transparent !important;
+		border-right-color:transparent !important;
+		width:10px;
+}
+
+.envato-kit-80-space-triangle-mid.elementor-widget-spacer .elementor-widget-container{
+		border-left-color:transparent !important;
+		border-right-color:transparent !important;
+		width:10px;
+	  border-bottom-color:transparent !important;
+		width:10px;
+
+}
+/* CTA Button icon */
+.envato-kit-80-cta .elementor-button-icon{
+	color:#ed8b00;
+}
+
+/* Large heading Rotate - Our staff */
+.envato-kit-80-rotate-heading{
+	transform: rotate(-90deg);
+}
